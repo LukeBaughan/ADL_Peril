@@ -1,0 +1,2 @@
+- Doors closing behind player
+- Two bosses (health bar)
