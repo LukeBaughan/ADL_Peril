@@ -1,7 +1,0 @@
-Peril Level
-Design Doc
-Check Design Doc template (flowchart)
-Play Testing Doc
-Map PNGs
-Pitch Slides
-and more
